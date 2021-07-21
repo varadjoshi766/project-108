@@ -1,0 +1,42 @@
+body {
+  color: rgb(0, 255, 13);
+  background: red;
+}
+
+span {
+  font-size: 30px;
+}
+
+#camera,
+#result {
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px;
+}
+
+#result_signing_name,
+#result_signing_name2 {
+  color: black;
+}
+
+.signing_name {
+  font-size: 40px;
+}
+
+.sign {
+  font-size: 48px;
+}
+
+.heading {
+  font-size: 20px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+
+label {
+  font-size: 15px;
+  color: cyan;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: lawngreen;
+}
